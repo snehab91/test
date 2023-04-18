@@ -1,0 +1,2 @@
+nano command is used to create text file in linux env
+
